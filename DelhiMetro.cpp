@@ -215,7 +215,7 @@ int main(){
             x--;
             y--;
             int p=shortestdistance(x,y);
-            cout<<"Shortest distance between source and destination is "<<p<<"Minutes\n";
+            cout<<"Shortest time between source and destination is "<<p<<"Minutes\n";
         }
         else if(choice==5){
             cout<<"Enter the serial no. of Source and Destination"<<endl;
